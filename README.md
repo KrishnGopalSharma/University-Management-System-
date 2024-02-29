@@ -7,24 +7,32 @@ The University Management System is a Java application developed using Java Swin
 
 * Features
 
-*  Student Management: Add, view, update, and delete student records.
+*  Student Management:
+     Add, view, update, and delete student records.
 
-* Course Management: Add, view, update, and delete course records.
-* 
-* Instructor Management: Add, view, update, and delete instructor records.
+* Course Management:
+    Add, view, update, and delete course records.
+
+* Instructor Management:
+    Add, view, update, and delete instructor records.
   
-* Department Management: Add, view, update, and delete department records.
+* Department Management:
+    Add, view, update, and delete department records.
   
-* Enrollment Management: Enroll students in courses and view enrollment details.
+* Enrollment Management:
+    Enroll students in courses and view enrollment details.
+
+* Examination Management:
+    Enter the subject marks.  
 
   
 * Technologies Used
   
-- Java SE
+  Java SE
   
-- Java Swing
+  Java Swing
   
-- MySQL Database
+  MySQL Database
   
-- JDBC (Java Database Connectivity)
+  JDBC (Java Database Connectivity)
 
